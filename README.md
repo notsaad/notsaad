@@ -1,4 +1,4 @@
-### Hey There!
+### Hey!
 
 My name is Saad and I'm a first year computer science student at the University of Ottawa.  
 Here on my Github you can find many of the side projects I have completed, or am working on currently!  
