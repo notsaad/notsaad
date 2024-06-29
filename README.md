@@ -2,7 +2,8 @@ Hey, I'm Saad and I'm a third year computer science student at the University of
 Here on my Github you can find many of the side projects I have completed, or am working on currently.
 You can reach/contact me at the following:  
 📫 saadmazharr@gmail.com  
-📫 https://www.linkedin.com/in/notsaad
+🧑‍💼 https://www.linkedin.com/in/notsaad
+🧑‍💻 https://www.saadmazhar.com
 
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
