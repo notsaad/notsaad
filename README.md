@@ -5,6 +5,9 @@ You can reach/contact me at the following:
 🧑‍💼 https://www.linkedin.com/in/notsaad  
 🧑‍💻 https://www.saadmazhar.com
 
+Currently:
+- working on lots of leetcode
+
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
