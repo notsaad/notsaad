@@ -10,8 +10,8 @@ You can reach/contact me at the following:
 
 🔭 I’m currently working on:
 - lots of leetcode
-- learning zig
-- making an http server
+- learning rust
+- making an http server in c
 
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
