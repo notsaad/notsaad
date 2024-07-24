@@ -6,7 +6,7 @@ You can reach/contact me at the following:
 🧑‍💻 https://www.saadmazhar.com
 
 ✅ I've recently finished...
-- setting up my personal site! (check it out @ saadmazhar.com)
+- setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
 
 🔭 I’m currently working on:
 - lots of leetcode
