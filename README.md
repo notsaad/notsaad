@@ -9,9 +9,7 @@ You can reach/contact me at the following:
 - setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
 
 🔭 I’m currently working on:
-- lots of leetcode
-- learning rust
-- making an http server in c
+- learning competitive programming
 
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
