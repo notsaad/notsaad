@@ -3,7 +3,7 @@ Here on my Github you can find many of the side projects I have completed, or am
 You can reach/contact me at the following:  
 📫 saadmazharr@gmail.com  
 🧑‍💼 https://www.linkedin.com/in/notsaad  
-🧑‍💻 https://www.saadmazhar.com
+🧑‍💻 https://saadmazhar.com
 
 ✅ I've recently finished...
 - setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
