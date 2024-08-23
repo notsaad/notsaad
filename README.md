@@ -11,6 +11,8 @@ You can reach/contact me at the following:
 🔭 I’m currently working on:
 - learning competitive programming
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/notsaad)
+
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
