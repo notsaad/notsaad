@@ -9,7 +9,7 @@ You can reach/contact me at the following:
 - setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
 
 🔭 I’m currently working on:
-- learning competitive programming
+- leetcode (see below)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/notsaad)
 
