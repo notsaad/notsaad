@@ -9,6 +9,7 @@ You can reach/contact me at the following:
 - setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
 
 🔭 I’m currently working on:
+- writting an interpreter in GoLang
 - leetcode (see below)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204&ext=heatmap)
