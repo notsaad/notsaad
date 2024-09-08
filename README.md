@@ -10,6 +10,7 @@ You can reach/contact me at the following:
 
 🔭 I’m currently working on:
 - writting an interpreter in GoLang
+- Reading [Bandit Algorithms](﻿https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore and Csaba Szepesvari
 - leetcode (see below)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204&ext=heatmap)
