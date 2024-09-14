@@ -15,6 +15,8 @@ You can reach/contact me at the following:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204&ext=heatmap)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=notsaad&theme=dark&hide_border=false)<br/>
+
 <!--
 **notsaad/notsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
