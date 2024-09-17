@@ -10,6 +10,7 @@ You can reach/contact me at the following:
 
 🔭 I’m currently working on:
 - [writing an interpreter in GoLang](https://www.github.com/notsaad/interpreter)
+- Writing my Honours Research Paper on Stochastic Bandit Algorithms
 - Reading [Bandit Algorithms](https://tor-lattimore.com/downloads/book/book.pdf) by Tor Lattimore and Csaba Szepesvari
 - leetcode (see below)
 
