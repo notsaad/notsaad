@@ -5,7 +5,7 @@ You can reach/contact me at the following:
 🧑‍💼 https://www.linkedin.com/in/notsaad  
 🧑‍💻 https://saadmazhar.com
 
-✅ I've recently finished...
+✅ I've recently finished:
 - setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
 - [writing an interpreter in GoLang](https://www.github.com/notsaad/interpreter)
 
