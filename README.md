@@ -11,7 +11,7 @@ You can reach/contact me at the following:
 
 🔭 I’m currently working on:
 - Writing my Honours Research Paper on Abstract Bandit Algorithms
-- [writing Data Structures and Algorithms in Raw C](https://www.github.com/notsaad/dsa_in_raw_c)
+- Finishing University Exams
 - leetcode (see below)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204&ext=heatmap)
