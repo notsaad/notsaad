@@ -11,9 +11,8 @@ You can reach/contact me at the following:
 
 🔭 I’m currently working on:
 - Writing my Honours Research Paper on Abstract Bandit Algorithms
-- Finishing University Exams
 - leetcode (see below)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notsaad&theme=dark&hide_border=false)<br/>
