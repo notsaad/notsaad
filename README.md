@@ -6,12 +6,12 @@ You can reach/contact me at the following:
 🧑‍💻 https://saadmazhar.com
 
 ✅ I've recently finished:
-- setting up my personal site! (check it out @ [saadmazhar.com](https://saadmazhar.com))
+- Writing my Honours Research Paper on Abstract Bandit Algorithms (link to paper coming soon)
 - [writing an interpreter in GoLang](https://www.github.com/notsaad/interpreter)
 
 🔭 I’m currently working on:
-- Writing my Honours Research Paper on Abstract Bandit Algorithms
-- leetcode (see below)
+- Working my way through advent of code 2024
+- Leetcode (see below)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/notsaad?theme=dark&font=Source%20Serif%204)
 
