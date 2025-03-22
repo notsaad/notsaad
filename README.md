@@ -1,7 +1,7 @@
 - Currently: SWE Intern @ Tesla
 - Graduating: April 2026
 
-Contact Me:
+Contact Me: <br>
 📫 saadmazharr@gmail.com  
 🧑‍💼 https://www.linkedin.com/in/notsaad  
 🧑‍💻 https://saadmazhar.com
