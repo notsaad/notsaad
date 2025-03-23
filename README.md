@@ -1,5 +1,6 @@
 - Currently: SWE Intern @ Tesla
-- Graduating: April 2026
+- Graduating: December 2025
+Looking for New Grad Software Engineering Positions
 
 Contact Me: <br>
 📫 saadmazharr@gmail.com  
