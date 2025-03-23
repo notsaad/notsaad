@@ -1,5 +1,6 @@
 - Currently: SWE Intern @ Tesla
 - Graduating: December 2025
+
 Looking for New Grad Software Engineering Positions
 
 Contact Me: <br>
