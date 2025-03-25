@@ -4,7 +4,7 @@
 Looking for New Grad Software Engineering Positions
 
 Contact Me: <br>
-📫 saadmazharr@gmail.com  
+📫 saadmazhar@me.com  
 🧑‍💼 https://www.linkedin.com/in/notsaad  
 🧑‍💻 https://saadmazhar.com
 
