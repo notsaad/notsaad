@@ -1,5 +1,10 @@
-- Currently: SWE Intern @ Tesla
-- Graduating: April 2026
+Software Engineer Intern at Tesla, Graduating April 2026
+
+Currently interested in:
+- C++
+- Systems Programming
+- Compilers
+- Graphics Programming
 
 Contact Me: <br>
 📫 saadmazhar@me.com  
