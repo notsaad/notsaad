@@ -1,7 +1,7 @@
 Software Engineer Intern at Tesla, Graduating April 2026
 
-Currently interested in:
-- C++
+Currently interested in learning:
+- C++ / Rust
 - Systems Programming
 - Compilers
 - Graphics Programming
