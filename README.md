@@ -1,10 +1,8 @@
 Software Engineer Intern at Tesla, Graduating April 2026
 
-Currently interested in learning:
+Currently interested in learning / working on:
 - C++ / Rust
-- Systems Programming
-- Compilers
-- Graphics Programming
+- Random ML projects
 
 Contact Me: <br>
 📫 saadmazhar@me.com  
