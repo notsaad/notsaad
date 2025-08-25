@@ -1,4 +1,4 @@
-Software Engineer Intern at Tesla, Graduating April 2026
+Software Engineer Intern at Tesla, Open to New Grad positions from April 2026
 
 Currently interested in learning / working on:
 - random projects
