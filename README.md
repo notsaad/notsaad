@@ -1,9 +1,9 @@
-Ex Software Engineer Intern at Tesla, Open to New Grad positions from April 2026
+Computer Science Student at the University of Ottawa
 
 Currently:
-- recruiting / interview prep
 - random projects
 - casually looking into rust
+- want to check out robotics
 
 Recently:
 - revamped personal [site](https://www.saadmazhar.com)
