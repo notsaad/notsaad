@@ -1,4 +1,5 @@
-Computer Science Student at the University of Ottawa
+Computer Science Student at the University of Ottawa.
+Joining Applied Intuition as a Software Engineer July 2026, previously interned at Tesla, Nokia.
 
 Currently:
 - random projects
