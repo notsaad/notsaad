@@ -2,7 +2,7 @@ Computer Science Student at the University of Ottawa, previously interned at Tes
 
 Currently:
 - random projects
-- casually looking into rust
+- advent of code in c++
 - want to check out robotics
 
 Recently:
