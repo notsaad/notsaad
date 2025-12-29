@@ -1,4 +1,4 @@
-Computer Science Student at the University of Ottawa, previously interned at Tesla, Nokia, Diffraction Limited.
+Computer Science Student at the University of Ottawa. Previously interned at Tesla, Nokia, Diffraction Limited.
 
 Currently:
 - random projects
