@@ -6,6 +6,7 @@ Currently:
 - want to check out robotics
 
 Recently:
-- revamped personal [site](https://www.saadmazhar.com)
+- [claude code context display tool in c++](https://www.github.com/cc-context-watch)
+- [revamped personal site](https://www.saadmazhar.com)
 
 Contact Me: saadmazhar@me.com
