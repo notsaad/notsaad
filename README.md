@@ -1,11 +1,13 @@
 Computer Science Student at the University of Ottawa. Previously interned at Tesla, Nokia, Diffraction Limited.
 
-Currently:
-- random projects
+Currently interested in:
+- graphics programming
+- robotics
 - advent of code in c++
-- want to check out robotics
+- reinforcement learning
 
 Recently:
+- [rust cli tool to sync Obsidian with Apple Calendar](https://www.github.com/notsaad/obsidian-sync)
 - [claude code context display tool in c++](https://www.github.com/notsaad/cc-context-watch)
 - [revamped personal site](https://www.saadmazhar.com)
 
