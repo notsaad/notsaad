@@ -7,7 +7,7 @@ Currently interested in:
 - reinforcement learning
 
 Recently:
-- [rust cli tool to sync Obsidian with Apple Calendar](https://www.github.com/notsaad/obsidian-sync)
+- [rust cli tool to sync obsidian with apple calendar](https://www.github.com/notsaad/obsidian-sync)
 - [claude code context display tool in c++](https://www.github.com/notsaad/cc-context-watch)
 - [revamped personal site](https://www.saadmazhar.com)
 
